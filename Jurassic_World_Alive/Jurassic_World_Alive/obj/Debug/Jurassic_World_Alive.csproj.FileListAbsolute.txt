@@ -1,0 +1,11 @@
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\bin\Debug\Jurassic_World_Alive.exe.config
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\bin\Debug\Jurassic_World_Alive.exe
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\bin\Debug\Jurassic_World_Alive.pdb
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\obj\Debug\Jurassic_World_Alive.csprojAssemblyReference.cache
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\obj\Debug\Jurassic_World_Alive.DinoInfoForm.resources
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\obj\Debug\Jurassic_World_Alive.Form1.resources
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\obj\Debug\Jurassic_World_Alive.Properties.Resources.resources
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\obj\Debug\Jurassic_World_Alive.csproj.GenerateResource.cache
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\obj\Debug\Jurassic_World_Alive.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\obj\Debug\Jurassic_World_Alive.exe
+C:\Users\edwar\source\repos\Jurassic_World_Alive\Jurassic_World_Alive\obj\Debug\Jurassic_World_Alive.pdb
